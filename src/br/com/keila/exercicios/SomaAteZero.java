@@ -1,3 +1,5 @@
+package br.com.keila.exercicios;
+
 import java.util.Scanner;
 public class SomaAteZero {
     public static void main(String[] args){
