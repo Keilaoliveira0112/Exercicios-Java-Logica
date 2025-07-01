@@ -8,13 +8,29 @@ Este repositório contém exercícios básicos de lógica de programação desen
 - IntelliJ IDEA
 - Git e GitHub
 
-## Descrição dos Exercícios
+# 📁 Projetos de Lógica de Programação  
 
-- **Sequência de Números:** Imprime números de 1 até N informado pelo usuário.
-- **Soma de Dois Números:** Solicita dois números e retorna a soma.
-- **Soma até Zero:** O usuário insere vários números e a soma é exibida quando digita zero.
-- **Cálculo de Média:** Recebe três notas e calcula a média, informando se o aluno foi aprovado ou reprovado.
-- **Conversão de Medidas:** Converte um valor em metros para centímetros.
+## ✅ Exercícios de Entrada e Saída  
+- Leitura de números pelo console  
+- Sequência numérica  
+- Soma de números  
+- Cálculo de média  
+- Conversão de medidas  
+
+## ✅ Estruturas Condicionais  
+- Verificar se um número é par ou ímpar  
+- Checar se a pessoa é maior de idade  
+- Menu de opções usando switch-case  
+
+## ✅ Estruturas de Repetição  
+- Contagem de 1 até 100  
+- Tabuada de um número  
+- Somar números até o usuário digitar zero  
+
+## ✅ Desafio: Condicional + Repetição  
+- Programa para calcular a média de várias notas, onde a entrada termina quando o usuário digitar `-1`.  
+
+---
 
 ## Como executar os exercícios
 
